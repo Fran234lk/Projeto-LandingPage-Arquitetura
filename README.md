@@ -1,5 +1,5 @@
 # Projeto-LandingPage-Arquitetura
-Este e o projeto desafio da escola Dnc com tema Arquitetura 
+Projeto com tema Arquitetura 
 
 Link disponibilizado do site: (https://projeto-landingpage-arquitetura.netlify.app)
 
